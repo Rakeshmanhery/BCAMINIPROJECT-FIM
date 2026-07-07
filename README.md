@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 BCAMINIPROJECT-FIM
+=======
+# BCAMINIPROJECT-FIM
+>>>>>>> ffe4aad4876867c47563df13dbcb32d38ab1b83c
